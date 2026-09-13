@@ -36,9 +36,9 @@
             label1.AutoSize = true;
             label1.Location = new Point(162, 138);
             label1.Name = "label1";
-            label1.Size = new Size(248, 20);
+            label1.Size = new Size(276, 20);
             label1.TabIndex = 0;
-            label1.Text = "  Student Profile — Jean Lee Auditor";
+            label1.Text = "  Student Profile — GitHub Beginner Lab";
             // 
             // Form1
             // 
